@@ -1,3 +1,8 @@
+# Second approach to "The Road to Learn React" course by Robin Wieruch.
+
+To be considered restart worthy.
+___
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
